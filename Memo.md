@@ -1,16 +1,3 @@
----
-marp: true
-theme: default
-_class: lead
-paginate: true
-backgroundColor:
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
----
-
-<!--
-headingDivider: 1
--->
-
 # _Notebooks_
 
 更新日時： 24/7/26 14:30  
